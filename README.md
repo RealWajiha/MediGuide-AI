@@ -1,5 +1,6 @@
 # 🩺 MediGuide AI
 # DEMO LINK
+https://wajiha-mediguide-ai.streamlit.app/
 
 
 ## AI-Powered Medical Symptom Assessment and Patient Guidance Assistant
